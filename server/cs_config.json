@@ -1,0 +1,14 @@
+{
+    "server":{
+        "server_name":"fdgs_server",
+        "ipv6_port":28211,
+        "ipv4_port":28211,
+        "heartbeatport":43966
+    },
+    "local_server":{
+        "ipv4_addr":"127.0.0.1",
+        "ipv4_port":8211
+    }
+    
+
+}
